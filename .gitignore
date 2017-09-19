@@ -1,0 +1,12 @@
+/target/
+*.logs
+
+/* IntelliJ */
+.idea/
+*.iml
+
+/* Eclipse */
+.settings/
+.project
+.classpath
+/build/
